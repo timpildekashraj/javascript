@@ -1,0 +1,1 @@
+document.querySelector('button').addEventListener('click', (Event) => {Event.target.textContent = 'added'})
